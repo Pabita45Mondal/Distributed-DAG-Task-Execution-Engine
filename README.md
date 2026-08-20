@@ -34,5 +34,3 @@ The `WorkerManager` tracks heartbeats from distributed nodes. If a worker fails 
 ## Performance
 The Python prediction runner demonstrates an ~87% reduction in batch processing time by distributing workloads across parallel workers (simulated 47m down to 6m for 100k requests).
 
-## License
-MIT
